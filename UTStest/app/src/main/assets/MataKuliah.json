@@ -1,0 +1,52 @@
+[
+  {
+    "nama": "Basis Data",
+    "sks": 3,
+    "gambar": "Basdat.png"
+  },
+  {
+    "nama": "Etika Profesi",
+    "sks": 2,
+    "gambar": "EtikaProfesi.jpg"
+  },
+  {
+    "nama": "Interaksi Manusia",
+    "sks": 3,
+    "gambar": "HCI.png"
+  },
+  {
+    "nama": "Metode Penelitian",
+    "sks": 3,
+    "gambar": "LPI.png"
+  },
+  {
+    "nama": "Manajemen Proyek",
+    "sks": 3,
+    "gambar": "ManPro.png"
+  },
+  {
+    "nama": "Sistem Operasi",
+    "sks": 3,
+    "gambar": "OS.png"
+  },
+  {
+    "nama": "Pengantar Kecerdasan Buatan",
+    "sks": 3,
+    "gambar": "PKB.png"
+  },
+  {
+    "nama": "Perancangan dan Pemograman Web",
+    "sks": 3,
+    "gambar": "PPW.png"
+  },
+  {
+    "nama": "Dasar-Dasar Programming",
+    "sks": 3,
+    "gambar": "ddp.png"
+  },
+  {
+    "nama": "Mobile Computing",
+    "sks": 3,
+    "gambar": "mobcom.jpg"
+  }
+]
